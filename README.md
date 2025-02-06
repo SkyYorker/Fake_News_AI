@@ -7,6 +7,9 @@
 
 ## Установка
 
+Использовалась версия: Python 3.13.1 - https://www.python.org/downloads/release/python-3131
+
+
 1.  **Клонируйте репозиторий:**
 
     ```
